@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468131992135",
+    "firebase_url": "https://adote-um-amigo-9d039.firebaseio.com",
+    "project_id": "adote-um-amigo-9d039",
+    "storage_bucket": "adote-um-amigo-9d039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468131992135:android:08d54830c24287d4",
+        "android_client_info": {
+          "package_name": "aula01.android.iesb.br.adoteumamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468131992135-22arf2obk056cd55av6pggks3bqvv278.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aula01.android.iesb.br.adoteumamigo",
+            "certificate_hash": "89FC2A1FD324DAE2CABA6DD662F7825851B47A5F"
+          }
+        },
+        {
+          "client_id": "468131992135-5ot259lig99t35ogrqok8jtg6upnps4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW572XIr4By1gSCX72BsoR3kssfVhAK3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468131992135-5ot259lig99t35ogrqok8jtg6upnps4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
