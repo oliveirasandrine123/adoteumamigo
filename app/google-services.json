@@ -49,6 +49,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468131992135:android:b5f1bb707c8ae5e2",
+        "android_client_info": {
+          "package_name": "com.sandrinejesus.adoteumamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468131992135-5ot259lig99t35ogrqok8jtg6upnps4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW572XIr4By1gSCX72BsoR3kssfVhAK3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
